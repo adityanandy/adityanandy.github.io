@@ -1,0 +1,13 @@
+# - name: Example student name
+#   photo: rock.jpg
+#   info: Postdoc, started Oct 2040
+#   email: exampleemail@gmail.com
+#   website: https://website.com
+
+- name: "This could be you!"
+  photo: ucla.jpeg
+  info: Graduate Student, starting Fall 2025. Please follow the above instructions if interested.
+
+- name: "This could be you!"
+  photo: ucla.jpeg
+  info: Undergraduate Student, starting Fall 2025. Please follow the above instructions if interested.

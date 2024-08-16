@@ -1,0 +1,16 @@
+- name: Aditya Nandy
+  photo: headshot.jpeg
+  info: Assistant Professor, Department of Chemical and Biomolecular Engineering, UCLA
+  email: aditya.nandy@ucla.edu
+  github: https://github.com/adityanandy
+  scholar: https://scholar.google.com/citations?user=gbTUmC8AAAAJ&hl=en
+  cv: cv/cv.pdf
+  # Change the items in "education" you have (up to 6)
+  education:
+    [
+      "(2023) Ph.D. Theoretical Chemistry, Massachusetts Institute of Technology",
+      "(2017) B.S. Chemical and Biomolecular Engineering (minor in Chemistry), University of California, Berkeley ",
+    ]
+
+  educationshort:
+    ["(2023) Ph.D. Chemistry, MIT", "(2017) B.S. ChemE, UC Berkeley"]
