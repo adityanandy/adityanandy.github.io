@@ -34,7 +34,7 @@ iframe {
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<!-- <h4>Our Research</h4> -->
+<!-- <h4> Research Projects</h4> -->
 
 As with any new research group, our interests and directions are being actively formed. Our website is currently bare for this reason. We are broadly interested in understanding how microscopic behavior governs behavior at the mesoscale. We are interested in these problems in both materials and biological systems. Current active research topics of interest (in no particular order) include:
 <ol>
@@ -62,3 +62,27 @@ I take a 'hands on' approach in mentoring students. Students can expect to meet 
 
 </div>
 </div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+<h4>Prior Research</h4>
+My prior work colors the future research in the group. I have worked on the following topics (representative publications linked):
+<h5>Learning from Literature Data</h5>
+<img src="{{ site.url }}{{ site.baseurl }}/images/literature.jpeg" width="100%" style="max-width:320px; margin-left: 15px" align="right"/>
+Literature scraping and cheminformatics uncovered rules to improve [metal-organic framework (MOF) stability](https://pubs.acs.org/doi/10.1021/jacs.1c07217). Our data-driven models provide a way to suggest changes on MOF structures to improve [stability.](https://www.nature.com/articles/s41597-022-01181-0) Using similar approaches, we studied redox potentials in [bimetallic complexes](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.1c02852), labeled spin states of [spin crossover](https://pubs.acs.org/doi/full/10.1021/acs.jpca.0c01458) transition metal complexes, and suggested transition metal complexes to repurpose for [new applications.](https://pubs.acs.org/doi/10.1021/acs.jpclett.3c01214)
+<br clear="left"/> 
+<h5>Deciphering Light Alkane Oxidation Reactivity</h5>
+<img src="{{ site.url }}{{ site.baseurl }}/images/design_rules.jpeg" width="100%" style="max-width:300px; margin-right: 15px" align="left"/>
+Strategies to utilize scaling relations for the prediction of [individual](https://pubs.acs.org/doi/full/10.1021/acscatal.9b02165) reaction energies or the energies of [multiple steps](https://pubs.acs.org/doi/full/10.1021/acscatal.0c04300) on the reaction energy landscape of light alkane oxidation break down due to spin and oxidation state variability. Broken empirical scaling relations are possible to harness for [improved molecular design.](https://pubs.acs.org/doi/10.1021/jacsau.2c00176)
+<br clear="left"/> 
+<h5>Method Sensitivity in Density Functional Theory (DFT)</h5>
+<img src="{{ site.url }}{{ site.baseurl }}/images/methods.jpeg" width="100%" style="max-width:320px; margin-left: 15px" align="right"/>
+Density Functional Approximation (DFA) variability in DFT leads to DFA sensitivity of property prediction. Global hybrid functionals utilize the Hartree-Fock exchange fraction as a tunable parameter. Transition metal complexes that vary only in their metal have [different sensitivity.](https://pubs.rsc.org/en/content/articlelanding/2020/cp/d0cp02977g) Additionally, different steps of a reaction energy landscape for light alkane oxidation are [differently DFA sensitive.](https://link.springer.com/article/10.1007/s11244-021-01482-5)
+<br clear="left"/> 
+<h5>Multiscale Modeling from the Microscopic to Mesoscopic Scales</h5>
+<img src="{{ site.url }}{{ site.baseurl }}/images/prestin.jpg" width="100%" style="max-width:300px; margin-right: 15px" align="left"/>
+Within the inner ear of mammals, the cochlea acts as a "squishy Fourier transformer" that turns mechanical sound signals into electrical impulses that are sensed by the brain. Within the cochlea, the outer hair cell reacts to the sound and processes the signal. There is a piezoelectric protein, named prestin, that is responsible for the response of the outer hair cell. We focused on uncovering the behavior of prestin in dictating the outer hair cell's response to sound stimulus. Microscopic motions of prestin are bridged to mesoscopic motions of the outer hair cell that are too large to study with atomistic detail.
+<br clear="left"/> 
+</div>
+</div>
+
