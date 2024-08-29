@@ -81,7 +81,7 @@ Density Functional Approximation (DFA) variability in DFT leads to DFA sensitivi
 <br clear="left"/> 
 <h5>Multiscale Modeling from the Microscopic to Mesoscopic Scales</h5>
 <img src="{{ site.url }}{{ site.baseurl }}/images/prestin.jpg" width="100%" style="max-width:300px; margin-right: 15px" align="left"/>
-Within the inner ear of mammals, the cochlea acts as a "squishy Fourier transformer" that turns mechanical sound signals into electrical impulses that are sensed by the brain. Within the cochlea, the outer hair cell reacts to the sound and processes the signal. There is a piezoelectric protein, named prestin, that is responsible for the response of the outer hair cell. We focused on uncovering the behavior of prestin in dictating the outer hair cell's response to sound stimulus. Microscopic motions of prestin are bridged to mesoscopic motions of the outer hair cell that are too large to study with atomistic detail.
+Within the inner ear of mammals, the cochlea acts as a "squishy Fourier transformer" that turns mechanical sound waves into electrical impulses that are sensed by the brain. Within the cochlea, the outer hair cell reacts to the sound and processes the signal. There is a piezoelectric protein, named prestin, that changes conformation and is responsible for the electromotile response of the outer hair cell. We focused on deciphering the role of prestin in governing outer hair cell motion. Microscopic motions of prestin are bridged to mesoscopic motions of the outer hair cell that are too large to study with atomistic detail.
 <br clear="left"/> 
 </div>
 </div>
