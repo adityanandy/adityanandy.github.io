@@ -77,7 +77,7 @@ Strategies to utilize scaling relations for the prediction of [individual](https
 <br clear="left"/> 
 <h5>Method Sensitivity in Density Functional Theory (DFT)</h5>
 <img src="{{ site.url }}{{ site.baseurl }}/images/methods.jpeg" width="100%" style="max-width:320px; margin-left: 15px" align="right"/>
-Density Functional Approximation (DFA) variability in DFT leads to DFA sensitivity of property prediction. Global hybrid functionals utilize the Hartree-Fock exchange fraction as a tunable parameter. Transition metal complexes that vary only in their metal have [different sensitivity.](https://pubs.rsc.org/en/content/articlelanding/2020/cp/d0cp02977g) Additionally, different steps of a reaction energy landscape for light alkane oxidation are [differently DFA sensitive.](https://link.springer.com/article/10.1007/s11244-021-01482-5)
+Within DFT, Density Functional Approximation (DFA) choice leads to variation in property prediction. Global hybrid functionals utilize the Hartree-Fock exchange fraction as a tunable parameter. Transition metal complexes that vary only in their metal have [different sensitivity](https://pubs.rsc.org/en/content/articlelanding/2020/cp/d0cp02977g) to this parameter. Additionally, different steps of a reaction energy landscape for light alkane oxidation are [differently DFA sensitive.](https://link.springer.com/article/10.1007/s11244-021-01482-5)
 <br clear="left"/> 
 <h5>Multiscale Modeling from the Microscopic to Mesoscopic Scales</h5>
 <img src="{{ site.url }}{{ site.baseurl }}/images/prestin.jpg" width="100%" style="max-width:300px; margin-right: 15px" align="left"/>
