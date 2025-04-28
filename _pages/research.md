@@ -36,15 +36,15 @@ iframe {
 <div class="col-md-12 col-sm-12">
 <!-- <h4> Research Projects</h4> -->
 
-As with any new research group, our interests and directions are being actively formed. Our website is currently bare for this reason. We are broadly interested in understanding how microscopic behavior governs behavior at the mesoscale. We are interested in these problems in both materials and biological systems. Current active research topics of interest (in no particular order) include:
+As with any new research group, our interests and directions are being actively formed. We are broadly interested in understanding how microscopic behavior governs behavior at the mesoscale for soft and hard materials. A unifying theme is elucidating the role of transition metals in these processes. We are interested in transition-metal-related problems in both materials and biological systems. Current active research topics of interest (in no particular order) include:
 <ol>
-<li> Comparing transmembrane transport proteins to gather insights on metal transport selectivity</li>
+<li> Comparing transmembrane transporter proteins to gather insights on metal transport selectivity</li>
 <li> Understanding how transmembrane voltage sensing dyes work and how to make them better</li>
 <li> Quantifying fitness landscapes for biomolecules and informing future searches with them</li>
 <li> Characterizing through-space/through-bond interactions in molecular catalysts and porous materials</li>
-<li> Benchmarking computational methods with experimental data on materials systems </li>
-<li> Utilizing physics and data-driven tools to study vesicle shapes and sizes </li>
-<li> Minimal models of membrane proteins that alter membrane mechanics </li>
+<li> Benchmarking computational methods with experimental data on materials systems</li>
+<li> Utilizing physics and data-driven tools to study vesicle shapes and sizes</li>
+<li> Minimal models of membrane proteins that alter membrane mechanics</li>
 </ol>
 
 </div>
@@ -54,7 +54,7 @@ As with any new research group, our interests and directions are being actively 
 <div class="col-md-12 col-sm-12">
 <h4>Methods and Student Training</h4>
 
-Students in the group will learn a variety of techniques, including but not limited to density functional theory [DFT], wavefunction theory [WFT], molecular dynamics [MD], Monte Carlo [MC], and continuum modeling. Students will gain proficiency in using high performance computing [HPC] resources, and when necessary, will also use machine learning [ML] for chemical problems. Students will also gain expertise in collaborative software development.
+Students in the group will learn a variety of techniques, including but not limited to density functional theory [DFT], wavefunction theory [WFT], molecular dynamics [MD], Monte Carlo [MC], and continuum modeling. Students will gain proficiency in using high performance computing [HPC] resources, and when necessary, will also use and develop machine learning [ML] tools for chemical problems. Students will also gain expertise in collaborative software development.
 
 Although we are a computational group in nature, it is essential that students think about the 'testability' of their hypotheses, speak with experimental groups, and communicate their work to others both inside and outside of the group. Aside from technical skills, all students will gain expertise in project management, teaching others, collaboration, and presenting their work to broad audiences. 
 
