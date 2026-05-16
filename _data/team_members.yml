@@ -6,8 +6,20 @@
 
 - name: "Ian Grimm"
   photo: ian_grimm_square.jpeg
-  info: Graduate Student.
+  info: "Graduate Student in Chemical Engineering (Started Fall 2025). Ian completed his B.S. in Chemical and Biomolecular Engineering at Princeton University, where he conducted research with Professor Jerelle Joseph."
+
+- name: "Dong Geun Ham"
+  photo: DGHam.jpeg
+  info: "Graduate Student in Chemical Engineering (Started Fall 2026). Dong Geun completed his M.S. in Chemical and Biomolecular Engineering at UCSD, where he conducted research with Professor Tod Pascal."
+
+- name: "Akshaya Jayaprakash"
+  photo: Akshaya.png
+  info: "Undergraduate Student in Chemistry (Started Spring 2026)."
 
 - name: "This could be you!"
   photo: ucla.jpeg
-  info: Undergraduate Student, starting Fall 2025. Please follow the above instructions if interested.
+  info: Graduate Student, starting Fall 2026/2027. Please follow the above instructions if interested.
+  
+- name: "This could be you!"
+  photo: ucla.jpeg
+  info: Undergraduate Student, starting Fall 2026/2027. Please follow the above instructions if interested.
