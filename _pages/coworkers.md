@@ -8,9 +8,9 @@ permalink: /co-workers/
 ## Co-workers
 
 <!-- **We are looking for new team members!** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
-We are looking for graduate and undergraduate students to start in Fall 2025! Prospective graduate students interested in research should apply to UCLA CBE and **list Aditya as first choice**. Additionally, prospective graduate and undergraduate students interested in research should e-mail Aditya with the subject line "Interest in Joining Molecular Modeling Laboratory," and an attached CV and transcript. All prospective students should provide a short summary describing research interests (2 sentences), what motivates you (2 sentences), what you aim to learn from research (2 sentences), and career goals (2 sentences). No prior computational experience is necessary.
+We are looking for graduate and undergraduate students to start in Fall 2026! Prospective graduate students interested in research should apply to UCLA CBE and **list Aditya as first choice**. Additionally, prospective graduate and undergraduate students interested in research should e-mail Aditya with the subject line "Interest in Joining Molecular Modeling Laboratory," and an attached CV and transcript. All prospective students should provide a short summary describing research interests (2 sentences), what motivates you (2 sentences), what you aim to learn from research (2 sentences), and career goals (2 sentences). No prior computational experience is necessary.
 
-**We are not hiring post-doctoral scholars at this time.**
+We are also looking for postdoctoral scholars! Prospective postdocs should e-mail Aditya with a CV, a statement of research interests, and contact information for two references. 
 
 <!-- ## PI
 
