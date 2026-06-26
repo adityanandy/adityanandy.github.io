@@ -37,7 +37,7 @@ We are also looking for postdoctoral scholars! Prospective postdocs should e-mai
 
 {% endfor %} -->
 
-## Current Students
+## Current Students and Postdoctoral Associates
 
 <div class='jumbotron'>
 {% assign number_printed = 0 %}
