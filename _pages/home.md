@@ -9,7 +9,9 @@ permalink: /
 
 I am Aditya Nandy, an assistant professor in the Department of Chemical and Biomolecular Engineering (CBE) at UCLA. 
 
-I am a theorist / computationalist. My interests lie in understanding how materials and biological systems undergo reactivity or respond to external perturbations. My goal is to understand the behavior of these systems across multiple time and length scales, to understand how microscopic interactions or behavior may lead to phenomena at the mesoscale. My research is at the intersection of quantum chemistry, statistical mechanics, continuum mechanics, and data science. I use tools from both applied mathematics and machine learning to solve these chemical / biophysical problems. I am interested in these phenomena for both biological systems (i.e. proteins / RNAs) and materials systems (i.e. porous materials and transition metal complexes). 
+I am a theorist and computationalist. My interests lie in understanding how materials and biological systems undergo reactivity or respond to external perturbations, with the goal of connecting microscopic interactions to the emergent behavior they produce at the mesoscale. Since that connection spans many time and length scales, our work sits at the intersection of quantum chemistry, statistical mechanics, continuum mechanics, and machine learning.
+
+We take two distinct approaches in our work. The first is physics-based, enabling us to build models that resolve mechanisms from electronic structure to continuum descriptions. The second is to encode what we know from physics or chemistry as constraints into generative models. We apply these ideas to both biological systems (e.g. proteins and RNAs) and materials systems (e.g. porous materials and transition metal complexes). A unifying theme across most of what the group studies is the role(s) transition metals play in puzzling or emergent behavior. 
 <!-- In particular, I think about how interactions at small length scales may lead to emergent or governing behavior at large length scales. -->
 
 <!-- <div class="container">
