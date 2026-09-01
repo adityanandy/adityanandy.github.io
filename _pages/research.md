@@ -43,8 +43,7 @@ As with any new research group, our interests and directions are being actively 
 <li> Quantifying fitness landscapes for biomolecules and informing future searches with them</li>
 <li> Characterizing through-space/through-bond interactions in molecular catalysts and porous materials</li>
 <li> Benchmarking computational methods with experimental data on materials systems</li>
-<li> Utilizing physics and data-driven tools to study vesicle shapes and sizes</li>
-<li> Minimal models of membrane proteins that alter membrane mechanics</li>
+<li> Constructing generative AI models that leverage chemistry/physics/materials constraints</li>
 </ol>
 
 </div>
@@ -54,11 +53,11 @@ As with any new research group, our interests and directions are being actively 
 <div class="col-md-12 col-sm-12">
 <h4>Methods and Student Training</h4>
 
-Students in the group will learn a variety of techniques, including but not limited to density functional theory [DFT], wavefunction theory [WFT], molecular dynamics [MD], Monte Carlo [MC], and continuum modeling. Students will gain proficiency in using high performance computing [HPC] resources, and when necessary, will also use and develop machine learning [ML] tools for chemical problems. Students will also gain expertise in collaborative software development.
+Students in the group will learn a variety of physics-based techniques, including but not limited to density functional theory [DFT], wavefunction theory [WFT], molecular dynamics [MD], Monte Carlo [MC], and continuum modeling. We will also use and develop artificial intelligence [AI]/machine learning [ML] tools for chemical problems. Students will gain proficiency in using high performance computing [HPC] resources. Students will gain proficiency in collaborative software development.
 
 Although we are a computational group in nature, it is essential that students think about the 'testability' of their hypotheses, speak with experimental groups, and communicate their work to others both inside and outside of the group. Aside from technical skills, all students will gain expertise in project management, teaching others, collaboration, and presenting their work to broad audiences. 
 
-I take a 'hands on' approach in mentoring students. Students can expect to meet me at least weekly to develop ideas, overcome challenges, and roadmap projects. We are 'question driven' rather than 'method driven.' I also care deeply about student development and outcomes. I will do my best to provide you with the resources to succeed during your degree and in your career. I prefer students to interact with me and other colleagues on a regular basis in the office. 
+I take a 'hands on' approach in mentoring students and postdocs. Members of the group (including undergraduate students) can expect to meet me at least weekly to develop ideas, overcome challenges, and roadmap projects. I have high expectations and push students to learn. We are 'question driven' rather than 'method driven.' I also care deeply about student development and outcomes. I will do my best to provide you with the resources to succeed during your degree and in your career. I prefer students to interact with me and other colleagues on a regular basis in the office. 
 
 </div>
 </div>
