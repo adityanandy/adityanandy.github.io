@@ -3,6 +3,9 @@
 #   info: Postdoc, started Oct 2040
 #   email: exampleemail@gmail.com
 #   website: https://website.com
+- name: "Changhwan Oh"
+  photo: changhwan.jpg
+  info: "Postdoctoral Scholar in Chemical Engineering (Started Fall 2026). Changhwan completed his Ph.D. in Materials Science and Engineering at MIT, where he conducted research with Professor Heather J. Kulik."
 
 - name: "Ian Grimm"
   photo: ian_grimm_square.jpeg
