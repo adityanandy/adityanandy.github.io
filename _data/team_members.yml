@@ -9,11 +9,15 @@
 
 - name: "Ian Grimm"
   photo: ian_grimm_square.jpeg
-  info: "Graduate Student in Chemical Engineering (Started Fall 2025). Ian completed his B.S. in Chemical and Biomolecular Engineering at Princeton University, where he conducted research with Professor Jerelle Joseph."
+  info: "Ph.D. Student in Chemical Engineering (Started Fall 2025). Ian completed his B.S. in Chemical and Biomolecular Engineering at Princeton University, where he conducted research with Professor Jerelle Joseph."
 
 - name: "Dong Geun Ham"
   photo: DGHam.jpeg
-  info: "Graduate Student in Chemical Engineering (Started Fall 2026). Dong Geun completed his M.S. in Chemical and Biomolecular Engineering at UCSD, where he conducted research with Professor Tod Pascal."
+  info: "Ph.D. Student in Chemical Engineering (Started Fall 2026). Dong Geun completed his M.S. in Chemical and Biomolecular Engineering at UCSD, where he conducted research with Professor Tod Pascal."
+
+- name: "Anna Cai"
+  photo: anna.jpeg
+  info: "M.S. Student in Chemical Engineering (Started Fall 2026). Anna completed her B.S. in Chemical and Biomolecular Engineering at UIC, where she conducted research with Professor Vivek Sharma. Anna is co-advised with Professor Samanvaya Srivastava."
 
 - name: "Akshaya Jayaprakash"
   photo: Akshaya.png
